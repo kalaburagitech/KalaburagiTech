@@ -9,7 +9,7 @@
 
 # KalaburagiTech - Company Website Template
 
-### <span style="color:#4CAF50">KalaburagiTech</span>KalaburagiTech
+<span style="color:#4CAF50">KalaburagiTech</span>
 
 we are building dynamic websites and applications using a wide range of modern technologies, including Next.js, React, Tailwind CSS, and more. Our focus is on delivering scalable, responsive, and feature-rich 
 digital solutions that cater to the needs of businesses and SaaS platforms.
