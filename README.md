@@ -1,8 +1,10 @@
 # https://kalaburagitech.com/
 
-![WhatsApp Image](https://github.com/user-attachments/assets/99f7f085-566e-4b31-907f-7e7adadec46e/raw)
+![WhatsApp Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/main/WhatsApp_Image_2025-01-01_at_12.38.56_PM-removebg-preview.png)
 
-![Another Image](https://github.com/user-attachments/assets/c6243317-1743-441a-bda8-e564688e58ee/raw)
+
+![Another Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/main/1735726312383.jpg)
+
 
 
 # KalaburagiTech - Company Website Template
