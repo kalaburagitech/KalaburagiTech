@@ -5,7 +5,8 @@
 
 ![Another Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/main/1735726312383.jpg)
 
-![Another Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/blob/main/download%20(1)%20(1).png)
+![Another Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/main/download%20(1)%20(1).png)
+
 
 
 
