@@ -5,6 +5,8 @@
 
 ![Another Image](https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/main/1735726312383.jpg)
 
+(https://raw.githubusercontent.com/kalaburagitech/KalaburagiTech/blob/main/download%20(1)%20(1).png)
+
 
 
 # KalaburagiTech - Company Website Template
